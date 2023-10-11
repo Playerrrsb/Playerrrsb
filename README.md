@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RahulVaswani</h1>
+<h1 align="center">Hi 👋, I'm Rahul Vaswani</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **Unity**
